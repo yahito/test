@@ -1,5 +1,7 @@
 from NEW-1
 
+from NEW-2
+
 from hotfix 2
 
 1111
